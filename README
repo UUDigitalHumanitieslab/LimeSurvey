@@ -1,1 +1,6 @@
-Please check out the /docs directory for further information.
+This is a fork of the official LimeSurvey repository containing a question type that allows to record a participant.
+
+This uses the [RecorderJS JavaScript package](https://github.com/mattdiamond/Recorderjs) by Matt Diamond and
+the recorder is based off of [Chris Wilson's example](https://github.com/cwilso/AudioRecorder).
+
+Digital Humanities Lab, Utrecht University, 2014/2015. 
